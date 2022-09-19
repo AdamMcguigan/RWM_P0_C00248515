@@ -226,7 +226,7 @@
       "url": "https://packages.unity.com"
     },
     "ie.setu.diffilter": {
-      "version": "file:ie.setu.cubefilter",
+      "version": "file:ie.setu.diffilter",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
