@@ -1,7 +1,7 @@
 {
-	"name": "ie.setu.cubefilter",
+	"name": "ie.setu.diffilter",
 	"version": "0.1.0",
-	"displayName": "CubeFilter",
+	"displayName": "DifFilter",
 	"description": "A filter that cubes numbers",
 	"unity": "2021.3"
 }
